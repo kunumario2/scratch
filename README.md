@@ -13,7 +13,7 @@ Legfőbb feature-jei:
 Bugok (Ezeket kijavítani nem volt időm, de sajnos tudok róluk):
 - Sötét módban sok egyedileg készített írás színe nem invertálódik dinamikusan, így olvashatatlanná válnak.
 - Szám bekérésnél könnyedén ki lehet akasztani a rendszert ha betűt írunk be, illetve ha nem tízzel osztható számot írunk be, a megkötés ellenére is elindul a játék.
-- 
+
 ![1](https://user-images.githubusercontent.com/100539163/155902115-9bead0de-570f-4681-8aba-b7681bc2e8b1.png)
 
 ![2](https://user-images.githubusercontent.com/100539163/155902116-2ee69691-cc04-4235-98f7-88b11805891a.png)
